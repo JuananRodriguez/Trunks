@@ -1,0 +1,11 @@
+*.log
+*.iml
+.idea
+test-results.xml
+coverage
+.nyc_output
+tmp
+/static
+/build
+/lib
+node_modules
